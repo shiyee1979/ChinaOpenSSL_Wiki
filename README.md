@@ -58,8 +58,8 @@ Tolua++安装教程：https://www.dazhuanlan.com/2019/10/05/5d97c3a14c67f/
 然后打开QtCreator，在QtCreator工具栏文件->打开文件或项目中，打开下载的ChinaOpenSSL开源代码包Medusa中的Medusa.pro文件。在项目栏中选择medusa，单击右键，选择qmake，开始执行编译。这是，编译会报错，提示“Norule to make target”share/proto/cpp/grSim_Commands.pb.cc”。
 在下载的ChinaOpenSSL文件夹下找到auto_linux.sh脚本。执行它，会生成我们需要的grSim_Commands.pb.cc和lua_zeus.cpp，然后把gSim_Commads.pb.cc拷贝到Qt报错提示的目录下，再次执行qmake。如果还是报错，关闭Medusa，然后在重新加载，执行编译，就应该OK了。
 
-#**Ubuntu系统**
-#*ChinaOpenSSL依赖包安装说明*
+# **Ubuntu系统**
+# **ChinaOpenSSL依赖包安装说明**
 \[
 e^{i/pi} +1 = 0
 \]
