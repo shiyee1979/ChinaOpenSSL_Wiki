@@ -60,5 +60,39 @@ Tolua++安装教程：https://www.dazhuanlan.com/2019/10/05/5d97c3a14c67f/
 
 
 
+#**Ubuntu系统**
+#*ChinaOpenSSL依赖包安装说明*
+\[
+e^{i/pi} +1 = 0
+\]
+
+```java
+Class Student{
+    char name;
+    int age;
+    String agent;
+
+}
+```
+
+Markdown![](assets/markdown-img-paste-20200116141627141.png)
+
+
+
+| Name | Age | Weight |
+| ---- | --- | ------ |
+| Jim  | 18  | 60     |
+| Tom     |  20   | 72       |
+
+
+
+H<sub>2</sub>O  CO<sub>2</sub>
+
+
+a<sup>2</sup> + b<sup>2</sup> = c<sup>2</sup>
+
+## ***一、Client***
+
+##**二、Medusa**
 
 
